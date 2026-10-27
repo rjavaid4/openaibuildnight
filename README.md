@@ -10,7 +10,7 @@ Run `npm test` for the pricing/filter checks and `npm run check` for JavaScript 
 
 ## Features
 
-- Six curated apartment communities with official source links.
+- Twenty curated apartment communities across Champaign, Urbana, and nearby Savoy with official source links.
 - Name/location search, layout-aware whole-unit budget filtering, bedroom and amenity filters, and sorting.
 - Browser-local saved apartments and comparison for up to three communities.
 - Apartment detail dialogs, official website and Google Maps links, and a housing research checklist.

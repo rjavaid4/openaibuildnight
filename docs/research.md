@@ -26,3 +26,7 @@ University budget filters use the corresponding layout's published rate, not a g
 ## Design direction
 
 Warm paper background, charcoal text, orange calls to action, generous spacing, editorial typography, calm photography, and a sage research section. The Figma file contains editable desktop/mobile concepts, shared color variables, and apartment-card instances; the website includes the final data, interactions, and motion refinements.
+
+## Expanded community directory
+
+Fourteen additional provider-sourced communities were added October 26, 2026. Their source links are stored with each record in `dist/extra-listings.js`. New entries use the bundled neighborhood illustration, not implied property photography. Unknown prices remain excluded from budget filters. Bedroom configurations are only included when confirmed; otherwise the official floor plans remain the source of truth.
