@@ -21,7 +21,9 @@ Run `npm test` for the pricing/filter checks and `npm run check` for JavaScript 
 
 This is a curated directory, not a live inventory feed or a complete list of local apartments. Sources were checked October 26, 2026. University rates refer to published 2026–27 student whole-apartment rates; eligibility and final charges must be confirmed. Unknown private-community rent is displayed as unknown and excluded from budget filtering. Selecting furnished housing uses furnished layout rates where known. No booking or in-app tour request is implied.
 
-The hero and four listing interiors use illustrative Unsplash photographs, explicitly labeled as inspiration rather than property photography. Orchard Downs and The Dean use images from their official websites; production reuse permission should be confirmed. Remote images and Google Fonts require internet access; cards fall back to the bundled neighborhood illustration if images fail. Saved listings stay in the current browser.
+All 20 community cards use downloaded photographs from their official property websites, with original image URLs and credits recorded in `dist/property-photos.js`. The hero remains clearly labeled Unsplash interior inspiration. Property photographs may show model units or shared amenities; they are not a promise of the exact available unit. Cards and apartment details use the same selected-layout quote. Equal-split estimates are rent-only illustrations with explicit occupancy assumptions.
+
+Cards show lease-year status, last-checked date, and unconfirmed availability. Bathroom counts remain unverified and are labeled for confirmation. Images fall back to the bundled neighborhood illustration if unavailable. Saved listings stay in the current browser.
 
 ## Design and research
 

@@ -30,3 +30,9 @@ Warm paper background, charcoal text, orange calls to action, generous spacing, 
 ## Expanded community directory
 
 Fourteen additional provider-sourced communities were added October 26, 2026. Their source links are stored with each record in `dist/extra-listings.js`. New entries use the bundled neighborhood illustration, not implied property photography. Unknown prices remain excluded from budget filters. Bedroom configurations are only included when confirmed; otherwise the official floor plans remain the source of truth.
+
+## Property photography and consistent summaries
+
+All 20 listings now have local photographs obtained from their official community websites. `dist/property-photos.js` records original image URLs, captions, and provider pages. Photos may represent model apartments or shared amenities. The hero remains illustrative.
+
+Cards, details, and comparison use the same selected-layout pricing summary. Cards show unknown bathroom counts, lease-year status, unconfirmed availability, and the source-check date. Detail equal-split estimates specify occupancy and exclude additional costs. Ashton Woods location was corrected to southwest campus in Champaign using its official community page. No tour slots, live availability, or route times are fabricated.
